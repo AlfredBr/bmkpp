@@ -1,0 +1,48 @@
+# CMake build trees
+/build-*/
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/CTestTestfile.cmake
+/Testing/
+/compile_commands.json
+
+# CMake generated project files
+*.cmake.user
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.directory
+*.dir/
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.d
+*.a
+*.so
+*.dylib
+
+# Visual Studio and VS Code local settings
+.vs/
+.vscode/
+
+# Test and coverage output
+DartConfiguration.tcl
+Testing/Temporary/
+coverage/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
