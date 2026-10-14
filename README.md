@@ -16,6 +16,9 @@ and export timing results without installing a framework or compiling a library.
 
 ## Quick start
 
+New to benchmarking? Follow [Getting started](./gettingstarted.md) to go from an
+empty source file to a benchmarked function, step by step.
+
 Add the [include directory](./include) to your compiler's include path, or copy
 [bmkpp.hpp](./include/bmkpp/bmkpp.hpp) into your project's include path. Only a
 C++17 compiler and the standard library are required.
